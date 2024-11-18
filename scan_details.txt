@@ -95,3 +95,11 @@ Directory: C:/Users/richa/OneDrive/Desktop/lulzec/@LulzsecCloudLogs
 Total Logs: 1110
 Unique Logs: 0
 Duplicate Logs: 1110
+Scan ID: 7efa23e1-e501-47f2-b609-ddc7381a7ba0
+Timestamp: 2024-11-19 00:03:41
+Directory: C:/Users/richa/OneDrive/Desktop/lulzec/@LulzsecCloudLogs
+Total Logs: 1110
+Unique Logs: 0
+Duplicate Logs: 1110
+
+
