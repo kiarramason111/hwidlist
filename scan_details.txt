@@ -1,7 +1,0 @@
-Scan ID: 001063e6-3245-4d98-8986-f2dd989f1d55
-Timestamp: 2024-11-18 15:20:27
-Directory: C:/Users/richa/OneDrive/Desktop/123123132
-Total Logs: 362
-Unique Logs: 362
-Duplicate Logs: 0
-
