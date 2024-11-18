@@ -91,3 +91,11 @@ Unique Logs: 522
 Duplicate Logs: 588
 
 
+Scan ID: 383aa150-1157-4012-8827-185aff36e0d6
+Timestamp: 2024-11-19 00:01:42
+Directory: C:/Users/richa/OneDrive/Desktop/lulzec/@LulzsecCloudLogs
+Total Logs: 1110
+Unique Logs: 0
+Duplicate Logs: 1110
+
+
