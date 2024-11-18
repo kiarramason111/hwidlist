@@ -45,3 +45,11 @@ Unique Logs: 0
 Duplicate Logs: 362
 
 
+Scan ID: bad612dc-9c2d-48ac-9165-ecbc42899617
+Timestamp: 2024-11-18 15:45:37
+Directory: C:/Users/richa/OneDrive/Desktop/123123132
+Total Logs: 362
+Unique Logs: 362
+Duplicate Logs: 0
+
+
