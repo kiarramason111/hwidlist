@@ -141,3 +141,11 @@ Unique Logs: 0
 Duplicate Logs: 33
 
 
+Scan ID: 54cb945f-8549-4df4-ad15-bd554851b367
+Timestamp: 2024-11-18 16:03:56
+Directory: C:/Users/richa/OneDrive/Desktop/123123132
+Total Logs: 362
+Unique Logs: 0
+Duplicate Logs: 362
+
+
