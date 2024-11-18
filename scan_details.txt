@@ -181,7 +181,6 @@ Unique Logs: 0
 Duplicate Logs: 33
 
 
-Scan ID: 5b2cdd22-e275-4d60-a165-b4407b1d1c64
 Timestamp: 2024-11-18 07:52:30
 Directory: C:/Users/Administrator/Desktop/test/@fatetraffic 1217 MIX 18-11-2024
 Total Logs: 595
@@ -195,5 +194,4 @@ Directory: C:/Users/richa/OneDrive/Desktop/54123/1
 Total Logs: 595
 Unique Logs: 0
 Duplicate Logs: 595
-
 
