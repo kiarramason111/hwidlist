@@ -29,3 +29,11 @@ Unique Logs: 362
 Duplicate Logs: 0
 
 
+Scan ID: b0610a7f-4929-42c8-83bd-891c616d893a
+Timestamp: 2024-11-18 15:38:48
+Directory: C:/Users/richa/OneDrive/Desktop/asdasd
+Total Logs: 33
+Unique Logs: 33
+Duplicate Logs: 0
+
+
