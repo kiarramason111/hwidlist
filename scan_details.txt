@@ -1,0 +1,7 @@
+Scan ID: f4312661-0261-433c-a386-927197c41a1c
+Timestamp: 2024-11-18 15:23:58
+Directory: C:/Users/richa/OneDrive/Desktop/LOGS/11.17.24/@LulzsecCloudLogs
+Total Logs: 26049
+Unique Logs: 26049
+Duplicate Logs: 0
+
