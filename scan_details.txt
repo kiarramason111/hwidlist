@@ -1,0 +1,7 @@
+Scan ID: 217b28de-c122-4f09-9e6f-a4bd0fcb7cc0
+Timestamp: 2024-11-18 15:02:19
+Directory: C:/Users/richa/OneDrive/Desktop/123123132
+Total Logs: 362
+Unique Logs: 362
+Duplicate Logs: 0
+
