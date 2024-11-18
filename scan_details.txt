@@ -3,3 +3,11 @@ Directory: C:/Users/richa/OneDrive/Desktop/asdasd
 Total Logs: 33
 Unique Logs: 0
 Duplicate Logs: 33
+Scan ID: b4a5c5d1-0526-4dc0-9a77-d2fe13946a39
+Timestamp: 2024-11-18 08:29:01
+Directory: C:/Users/Administrator/Desktop/upload
+Total Logs: 498
+Unique Logs: 0
+Duplicate Logs: 498
+
+
