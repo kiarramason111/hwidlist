@@ -1,0 +1,7 @@
+Scan ID: f740c604-abd5-45a4-be76-9ccd116d3300
+Timestamp: 2024-11-18 15:18:03
+Directory: C:/Users/richa/OneDrive/Desktop/123123132
+Total Logs: 362
+Unique Logs: 362
+Duplicate Logs: 0
+
