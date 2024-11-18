@@ -115,3 +115,12 @@ Unique Logs: 1
 Duplicate Logs: 1109
 HWIDs: 79ADDA5BEB62108DF7005D7B20127A81
 
+Scan ID: 9d185394-b4e3-4538-9b84-d574bd971ffd
+Timestamp: 2024-11-19 00:08:44
+Directory: C:/Users/richa/OneDrive/Desktop/lulzec/@LulzsecCloudLogs
+Total Logs: 1110
+Unique Logs: 1
+Duplicate Logs: 1109
+HWIDs: 79ADDA5BEB62108DF7005D7B20127A81
+
+
