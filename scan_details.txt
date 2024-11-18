@@ -83,7 +83,6 @@ Unique Logs: 0
 Duplicate Logs: 595
 
 
-Scan ID: ec5c450e-6e04-4e9b-a35a-4e44b7a5ec17
 Timestamp: 2024-11-18 22:27:36
 Directory: C:/Users/richa/OneDrive/Desktop/asdasd/@LulzsecCloudLogs
 Total Logs: 1110
@@ -96,4 +95,3 @@ Directory: C:/Users/richa/OneDrive/Desktop/lulzec/@LulzsecCloudLogs
 Total Logs: 1110
 Unique Logs: 0
 Duplicate Logs: 1110
-
